@@ -8,3 +8,4 @@ Release
 *.dll
 *.p*
 *.cd
+*.o*
