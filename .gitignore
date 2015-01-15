@@ -1,0 +1,10 @@
+Debug
+Release
+*.dll
+*.v*
+*.f*
+*.u*
+*.s*
+*.dll
+*.p*
+*.cd
