@@ -2,6 +2,7 @@
 #include<stdlib.h>
 
 //PAT Adcanced Level 1005: Spell It Right
+//test for git submit
 int main(void)
 {
 	char S[102];
