@@ -7,6 +7,5 @@ Release
 *.s*
 *.dll
 *.p*
-*.cd
 *.o*
 *.f*
