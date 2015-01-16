@@ -10,16 +10,6 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Divisibility.c" />
-    <ClCompile Include="Divisibility_V2.c" />
-    <ClCompile Include="divi_test.c" />
-    <ClCompile Include="isPrime.c" />
-    <ClCompile Include="marathon.c" />
-    <ClCompile Include="multhread.c" />
-    <ClCompile Include="submission.c" />
-    <ClCompile Include="Submission_V2.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1314B7C1-DCD0-484B-8877-25513890AF63}</ProjectGuid>
     <RootNamespace>HackRank</RootNamespace>

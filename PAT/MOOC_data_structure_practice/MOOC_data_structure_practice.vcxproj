@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07-2_Insert_or_Merge.c" />
+    <ClCompile Include="04-3_Huffman_Codes.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{031177B7-D8C6-4E99-BC2E-C507C2744608}</ProjectGuid>
