@@ -213,7 +213,7 @@ int main(void)
 			printf("Yes\n");
 	}
 //	fclose(fp);
-//	system("pause");
+	system("pause");
 	return 0;
 }
 
